@@ -13,6 +13,7 @@
         <li><a href="./MethodOverloading.java">MethodOverloading.java</a> - This file demonstrates method overloading in Java.</li>
         <li><a href="./frequency.java">frequency.java</a> - This file includes a program to count the frequency of characters in a string.</li>
         <li><a href="./palindrome.java">palindrome.java</a> - This file contains a program to check if a given string is a palindrome.</li>
+        <li><a href="HierarchicalInheritance.java">Hierarchical inheritance</a> - This file contains a program for printing manager and employee details implemented using hierarchical inheritance</li>
     </ul>
     <h2>Description</h2>
     <p>This project includes various Java programs demonstrating different concepts such as matrix multiplication, method overloading, frequency counting, and palindrome checking.</p>
