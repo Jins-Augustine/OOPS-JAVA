@@ -16,6 +16,7 @@
         <li><a href="HierarchicalInheritance.java">Hierarchical inheritance</a> - This file contains a program for printing manager and employee details implemented using hierarchical inheritance</li>
         <li><a href="AbstractExample.java">Abstract class Implementation</a> - This file contains an example program for Abstract class and use of "this" keyword</li>
         <li><a href="MethodOverriding.java">Method Overriding</a> - This file contains an example program for method overriding and use of "super" keyword</li>
+        <li><a href="Interface.java">Interface & Multiple inheritance</a> - This file contains an example program for the implementation of interface and multiple inheritance</li>
     </ul>
     <h2>Description</h2>
     <p>This project includes various Java programs demonstrating different concepts such as matrix multiplication, method overloading, frequency counting, and palindrome checking.</p>
